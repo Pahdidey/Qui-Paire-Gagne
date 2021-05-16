@@ -8,6 +8,7 @@
 @Cwh : #fff;
 @Cbl : #1e272e;
 @Cgclair : #fdfdfd;
+@Cg: #dfe6e9;
 @Cerr : #c0392b;
 @Clink : #2980b9;
 
@@ -247,6 +248,53 @@ form {
     top: 0; 
     opacity: 1;
   }
+}
+
+
+
+
+// Tabs
+
+.tabs {
+	.px-to-rem(margin, 30 0 20);
+	.tabs-nav {
+		margin: 0;
+  		padding: 0;
+		li {
+			display: inline-block;
+			border-bottom: 2px solid transparent;
+			margin: 0;
+			a {
+				display: block;
+				padding: 10px 15px;
+				text-decoration: none;
+				color: @Cbl;
+				text-transform: uppercase;
+				font-weight: 400;
+			}
+			&.active {
+				border-bottom: 2px solid @C1;
+				a {
+					color: @C1;
+				}
+			}
+		}
+	}
+
+	.tabs-content {
+		border-top: 2px solid @Cg;
+		.px-to-rem(padding, 20 10);
+	  	margin-top: -2px;
+	  	//overflow: hidden;
+	  	div:not(:first-child) {
+			display: none;
+		}
+		h2, h3, h4 {
+			.px-to-rem(font-size, 20);
+			.px-to-rem(line-height, 24);
+			.px-to-rem(margin-bottom, 15);
+		}
+	}
 }
 
 
