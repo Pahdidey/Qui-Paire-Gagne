@@ -288,4 +288,328 @@
       <carte id="242"/>
     </manche>
   </partie>
+  <partie nom="4U8ki">
+    <manche id="1">
+      <carte id="128"/>
+      <carte id="210"/>
+      <carte id="317"/>
+      <carte id="92"/>
+      <carte id="49"/>
+      <carte id="314"/>
+      <carte id="72"/>
+      <carte id="46"/>
+      <carte id="273"/>
+      <carte id="163"/>
+      <carte id="259"/>
+    </manche>
+    <manche id="2">
+      <carte id="121"/>
+      <carte id="325"/>
+      <carte id="257"/>
+      <carte id="82"/>
+      <carte id="149"/>
+      <carte id="283"/>
+      <carte id="138"/>
+      <carte id="151"/>
+      <carte id="10"/>
+      <carte id="244"/>
+      <carte id="226"/>
+    </manche>
+    <manche id="3">
+      <carte id="260"/>
+      <carte id="324"/>
+      <carte id="100"/>
+      <carte id="191"/>
+      <carte id="297"/>
+      <carte id="331"/>
+      <carte id="208"/>
+      <carte id="211"/>
+      <carte id="112"/>
+      <carte id="222"/>
+      <carte id="4"/>
+    </manche>
+    <manche id="4">
+      <carte id="315"/>
+      <carte id="270"/>
+      <carte id="258"/>
+      <carte id="195"/>
+      <carte id="171"/>
+      <carte id="15"/>
+      <carte id="174"/>
+      <carte id="122"/>
+      <carte id="313"/>
+      <carte id="42"/>
+      <carte id="143"/>
+    </manche>
+  </partie>
+  <partie nom="wKeRk">
+    <manche id="1">
+      <carte id="78"/>
+      <carte id="89"/>
+      <carte id="187"/>
+      <carte id="143"/>
+      <carte id="10"/>
+      <carte id="186"/>
+      <carte id="227"/>
+      <carte id="38"/>
+      <carte id="326"/>
+      <carte id="256"/>
+      <carte id="20"/>
+    </manche>
+    <manche id="2">
+      <carte id="266"/>
+      <carte id="303"/>
+      <carte id="60"/>
+      <carte id="173"/>
+      <carte id="197"/>
+      <carte id="312"/>
+      <carte id="325"/>
+      <carte id="54"/>
+      <carte id="119"/>
+      <carte id="202"/>
+      <carte id="323"/>
+    </manche>
+    <manche id="3">
+      <carte id="245"/>
+      <carte id="19"/>
+      <carte id="223"/>
+      <carte id="221"/>
+      <carte id="121"/>
+      <carte id="132"/>
+      <carte id="79"/>
+      <carte id="178"/>
+      <carte id="259"/>
+      <carte id="32"/>
+      <carte id="158"/>
+    </manche>
+    <manche id="4">
+      <carte id="72"/>
+      <carte id="170"/>
+      <carte id="133"/>
+      <carte id="231"/>
+      <carte id="278"/>
+      <carte id="118"/>
+      <carte id="248"/>
+      <carte id="271"/>
+      <carte id="91"/>
+      <carte id="273"/>
+      <carte id="251"/>
+    </manche>
+  </partie>
+  <partie nom="tx3uh">
+    <manche id="1">
+      <carte id="231"/>
+      <carte id="21"/>
+      <carte id="45"/>
+      <carte id="88"/>
+      <carte id="102"/>
+      <carte id="5"/>
+      <carte id="313"/>
+      <carte id="56"/>
+      <carte id="38"/>
+      <carte id="289"/>
+      <carte id="2"/>
+    </manche>
+    <manche id="2">
+      <carte id="312"/>
+      <carte id="68"/>
+      <carte id="256"/>
+      <carte id="219"/>
+      <carte id="97"/>
+      <carte id="54"/>
+      <carte id="199"/>
+      <carte id="280"/>
+      <carte id="247"/>
+      <carte id="162"/>
+      <carte id="55"/>
+    </manche>
+    <manche id="3">
+      <carte id="127"/>
+      <carte id="140"/>
+      <carte id="66"/>
+      <carte id="29"/>
+      <carte id="63"/>
+      <carte id="95"/>
+      <carte id="304"/>
+      <carte id="78"/>
+      <carte id="189"/>
+      <carte id="154"/>
+      <carte id="105"/>
+    </manche>
+    <manche id="4">
+      <carte id="196"/>
+      <carte id="262"/>
+      <carte id="18"/>
+      <carte id="190"/>
+      <carte id="322"/>
+      <carte id="90"/>
+      <carte id="226"/>
+      <carte id="46"/>
+      <carte id="16"/>
+      <carte id="268"/>
+      <carte id="260"/>
+    </manche>
+  </partie>
+  <partie nom="avNWX">
+    <manche id="1">
+      <carte id="48"/>
+      <carte id="253"/>
+      <carte id="204"/>
+      <carte id="174"/>
+      <carte id="109"/>
+      <carte id="90"/>
+      <carte id="328"/>
+      <carte id="275"/>
+      <carte id="154"/>
+      <carte id="97"/>
+      <carte id="243"/>
+    </manche>
+    <manche id="2">
+      <carte id="158"/>
+      <carte id="148"/>
+      <carte id="22"/>
+      <carte id="108"/>
+      <carte id="273"/>
+      <carte id="191"/>
+      <carte id="186"/>
+      <carte id="195"/>
+      <carte id="132"/>
+      <carte id="135"/>
+      <carte id="277"/>
+    </manche>
+    <manche id="3">
+      <carte id="311"/>
+      <carte id="29"/>
+      <carte id="151"/>
+      <carte id="280"/>
+      <carte id="214"/>
+      <carte id="42"/>
+      <carte id="282"/>
+      <carte id="147"/>
+      <carte id="106"/>
+      <carte id="219"/>
+      <carte id="8"/>
+    </manche>
+    <manche id="4">
+      <carte id="61"/>
+      <carte id="261"/>
+      <carte id="18"/>
+      <carte id="276"/>
+      <carte id="331"/>
+      <carte id="320"/>
+      <carte id="104"/>
+      <carte id="288"/>
+      <carte id="211"/>
+      <carte id="28"/>
+      <carte id="77"/>
+    </manche>
+  </partie>
+  <partie nom="9pUSt">
+    <manche id="1">
+      <carte id="263"/>
+      <carte id="20"/>
+      <carte id="35"/>
+      <carte id="40"/>
+      <carte id="18"/>
+      <carte id="136"/>
+      <carte id="257"/>
+      <carte id="139"/>
+      <carte id="192"/>
+      <carte id="147"/>
+      <carte id="311"/>
+    </manche>
+    <manche id="2">
+      <carte id="67"/>
+      <carte id="326"/>
+      <carte id="202"/>
+      <carte id="307"/>
+      <carte id="280"/>
+      <carte id="151"/>
+      <carte id="222"/>
+      <carte id="112"/>
+      <carte id="258"/>
+      <carte id="185"/>
+      <carte id="254"/>
+    </manche>
+    <manche id="3">
+      <carte id="298"/>
+      <carte id="302"/>
+      <carte id="121"/>
+      <carte id="132"/>
+      <carte id="203"/>
+      <carte id="104"/>
+      <carte id="93"/>
+      <carte id="64"/>
+      <carte id="190"/>
+      <carte id="12"/>
+      <carte id="186"/>
+    </manche>
+    <manche id="4">
+      <carte id="232"/>
+      <carte id="161"/>
+      <carte id="31"/>
+      <carte id="278"/>
+      <carte id="8"/>
+      <carte id="99"/>
+      <carte id="60"/>
+      <carte id="322"/>
+      <carte id="259"/>
+      <carte id="82"/>
+      <carte id="9"/>
+    </manche>
+  </partie>
+  <partie nom="ONctS">
+    <manche id="1">
+      <carte id="144"/>
+      <carte id="79"/>
+      <carte id="316"/>
+      <carte id="64"/>
+      <carte id="146"/>
+      <carte id="152"/>
+      <carte id="36"/>
+      <carte id="132"/>
+      <carte id="184"/>
+      <carte id="291"/>
+      <carte id="17"/>
+    </manche>
+    <manche id="2">
+      <carte id="77"/>
+      <carte id="171"/>
+      <carte id="205"/>
+      <carte id="101"/>
+      <carte id="312"/>
+      <carte id="170"/>
+      <carte id="154"/>
+      <carte id="162"/>
+      <carte id="272"/>
+      <carte id="130"/>
+      <carte id="311"/>
+    </manche>
+    <manche id="3">
+      <carte id="68"/>
+      <carte id="12"/>
+      <carte id="295"/>
+      <carte id="224"/>
+      <carte id="111"/>
+      <carte id="276"/>
+      <carte id="59"/>
+      <carte id="329"/>
+      <carte id="123"/>
+      <carte id="303"/>
+      <carte id="131"/>
+    </manche>
+    <manche id="4">
+      <carte id="263"/>
+      <carte id="126"/>
+      <carte id="106"/>
+      <carte id="87"/>
+      <carte id="119"/>
+      <carte id="302"/>
+      <carte id="38"/>
+      <carte id="191"/>
+      <carte id="83"/>
+      <carte id="166"/>
+      <carte id="61"/>
+    </manche>
+  </partie>
 </listes>

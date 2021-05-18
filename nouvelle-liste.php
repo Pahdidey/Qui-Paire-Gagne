@@ -19,7 +19,7 @@
 	$nouvellePartie = $xml->addChild('partie');
     $nouvellePartie->addAttribute('nom', $code);
 
-  	$max = 252;
+  	$max = 331;
   	$liste = array();
 
 	$i = 1;

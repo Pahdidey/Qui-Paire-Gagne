@@ -4,7 +4,8 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Qui Paire Gagne</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="robots" content="noindex, nofollow" />
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	    <link rel="stylesheet" href="./css/reset.css">
 	    <link rel="stylesheet" href="./css/styles.css<?php echo "?".rand();?>">
@@ -82,21 +83,5 @@
 			</div>
 			<?php include('rejoindre-partie.php'); ?>
 		</div>
-
-		<script>
-			$('.copy_button').on( 'click', function(e){
-		        e.preventDefault();
-		        copyToClipboard( $(this).attr('href') );
-		        alert("L'adresse a bien été copiée");
-		    });
-
-		    function copyToClipboard(element) {
-		        var $temp = $("<input>");
-		        $("body").append($temp);
-		        $temp.val(element).select();
-		        document.execCommand("copy");
-		        $temp.remove();
-		    }
-		</script>
 	</body>
 </html>

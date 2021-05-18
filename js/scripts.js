@@ -48,6 +48,24 @@ $(document).ready(function() {
     });
 
 
+
+    // Copier URL
+
+    $('.copy_button').on( 'click', function(e){
+        e.preventDefault();
+        copyToClipboard( $(this).attr('href') );
+        alert("L'adresse a bien été copiée");
+    });
+
+    function copyToClipboard(element) {
+        var $temp = $("<input>");
+        $("body").append($temp);
+        $temp.val(element).select();
+        document.execCommand("copy");
+        $temp.remove();
+    }
+
+
   
 });
 
