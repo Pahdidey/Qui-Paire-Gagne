@@ -80,8 +80,12 @@
 					<p class="bigger"><strong>Aucune partie en cours.</strong></p> 
 					<p>Créez en une nouvelle ou rejoignez une partie existante.</p>
 				<?php endif; ?>
+
+				<p class="smaller">Vous cherchez plus d'informations sur les jeux de société&nbsp;? Le site <a href="http://des-en-mousse.com/" title="des-en-mousse.com (nouvelle fenêtre)" aria-label="des-en-mousse.com (nouvelle fenêtre)">Dés en Mousse</a> est la pour vous&nbsp;!</p>
 			</div>
 			<?php include('rejoindre-partie.php'); ?>
+
+
 		</div>
 	</body>
 </html>

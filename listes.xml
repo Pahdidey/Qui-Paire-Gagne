@@ -612,4 +612,58 @@
       <carte id="61"/>
     </manche>
   </partie>
+  <partie nom="U4eHQ">
+    <manche id="1">
+      <carte id="4"/>
+      <carte id="107"/>
+      <carte id="60"/>
+      <carte id="137"/>
+      <carte id="152"/>
+      <carte id="50"/>
+      <carte id="258"/>
+      <carte id="3"/>
+      <carte id="93"/>
+      <carte id="48"/>
+      <carte id="49"/>
+    </manche>
+    <manche id="2">
+      <carte id="284"/>
+      <carte id="249"/>
+      <carte id="39"/>
+      <carte id="211"/>
+      <carte id="64"/>
+      <carte id="43"/>
+      <carte id="276"/>
+      <carte id="41"/>
+      <carte id="124"/>
+      <carte id="262"/>
+      <carte id="225"/>
+    </manche>
+    <manche id="3">
+      <carte id="308"/>
+      <carte id="323"/>
+      <carte id="172"/>
+      <carte id="286"/>
+      <carte id="216"/>
+      <carte id="103"/>
+      <carte id="111"/>
+      <carte id="92"/>
+      <carte id="145"/>
+      <carte id="13"/>
+      <carte id="299"/>
+    </manche>
+    <manche id="4">
+      <carte id="271"/>
+      <carte id="19"/>
+      <carte id="254"/>
+      <carte id="228"/>
+      <carte id="32"/>
+      <carte id="244"/>
+      <carte id="36"/>
+      <carte id="155"/>
+      <carte id="63"/>
+      <carte id="259"/>
+      <carte id="219"/>
+    </manche>
+  </partie>
 </listes>
