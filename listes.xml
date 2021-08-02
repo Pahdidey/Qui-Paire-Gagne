@@ -666,4 +666,58 @@
       <carte id="219"/>
     </manche>
   </partie>
+  <partie nom="i2f1e">
+    <manche id="1">
+      <carte id="229"/>
+      <carte id="262"/>
+      <carte id="275"/>
+      <carte id="270"/>
+      <carte id="186"/>
+      <carte id="94"/>
+      <carte id="133"/>
+      <carte id="146"/>
+      <carte id="18"/>
+      <carte id="318"/>
+      <carte id="273"/>
+    </manche>
+    <manche id="2">
+      <carte id="6"/>
+      <carte id="314"/>
+      <carte id="38"/>
+      <carte id="274"/>
+      <carte id="89"/>
+      <carte id="26"/>
+      <carte id="312"/>
+      <carte id="152"/>
+      <carte id="198"/>
+      <carte id="282"/>
+      <carte id="254"/>
+    </manche>
+    <manche id="3">
+      <carte id="197"/>
+      <carte id="271"/>
+      <carte id="7"/>
+      <carte id="87"/>
+      <carte id="145"/>
+      <carte id="181"/>
+      <carte id="320"/>
+      <carte id="315"/>
+      <carte id="285"/>
+      <carte id="327"/>
+      <carte id="265"/>
+    </manche>
+    <manche id="4">
+      <carte id="289"/>
+      <carte id="203"/>
+      <carte id="56"/>
+      <carte id="11"/>
+      <carte id="128"/>
+      <carte id="119"/>
+      <carte id="16"/>
+      <carte id="73"/>
+      <carte id="230"/>
+      <carte id="65"/>
+      <carte id="179"/>
+    </manche>
+  </partie>
 </listes>
