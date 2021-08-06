@@ -9,7 +9,6 @@
 		foreach ($listeCartes as $valeur) {
 			$nom = $valeur['nom'];
 			if ($nom == $code) {
-				echo "Youpi";
 				$i++;
 				$_SESSION["partie"] = "rejointe";
 				$_SESSION["nomListe"] = $code;
@@ -17,7 +16,6 @@
 			}
 		}
 		if ($i == 0) {
-			echo "Pas youpi";
 			$_SESSION["partie"] = "inconnue";
 			$_SESSION["nomListe"] = $code;
 			header("Location: index.php");

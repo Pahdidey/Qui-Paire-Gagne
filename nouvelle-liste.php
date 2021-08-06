@@ -1,8 +1,6 @@
 <?php
 	session_start();
 
-	$listeCartes  =  simplexml_load_file('listes.xml');
-
 	$file = 'listes.xml';
     $xml = simplexml_load_file($file);
     $xml->Users;
