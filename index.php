@@ -86,6 +86,6 @@
 			<?php include('rejoindre-partie.php'); ?>
 
 
-		</div>
+		</section>
 	</body>
 </html>
